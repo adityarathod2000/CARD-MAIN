@@ -1,0 +1,6 @@
+{
+  "name": "Midnight Velvet — 3D Birthday Card",
+  "description": "An interactive 3D digital birthday card featuring a sculptural rose-gold locket heart, celestial astrolabe rings, custom shaders, and tactile celebratory charms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
